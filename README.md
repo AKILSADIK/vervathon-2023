@@ -1,7 +1,8 @@
 # Vervathon-2023
 
 **Team Name:** 
-Team Weefy
+Weefy
+
 **Problem Statement:** 
 Developing an AI-based application for generating questions from a given text document.
 
@@ -13,7 +14,6 @@ The prototype is a Python application that uses the Transformers library to gene
 
 **UML Diagrams:**
 ![image](https://github.com/AKILSADIK/vervathon-2023/assets/113614113/2e4b74dd-23d2-4ddb-924d-72f053ddf6fa)
-
 
 **Tech Stack:**
 - Python
